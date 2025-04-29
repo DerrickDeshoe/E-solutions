@@ -123,6 +123,7 @@ const page = () => {
       <div>
         <InfoBanner
           image={BannerImage1}
+          width={20}
           heading="Driving Solutions in Payment Systems"
           paragraph="we turn every transaction into an opportunity for growth. By leveraging advanced payment 
                      technologies, we empower businesses and individuals with seamless, secure, and efficient 

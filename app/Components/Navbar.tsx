@@ -56,6 +56,7 @@ const NavBar = () => {
     services: [
       { label: "Service1", href: "/Service" },
       { label: "Payment Solutions", href: "/Payment" },
+      { label: "Mobile Advertising", href: "/MobileAdvertising" },
     ],
     products: [
       { label: "Software", href: "#" },

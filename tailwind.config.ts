@@ -1,6 +1,6 @@
 import type { Config } from "tailwindcss";
 
-import fff from "./public/images/PaymentImages/PaymentBack.png"
+import fff from "./public/images/AdvertisingImages/MobileAdvertsingBack.png"
 
 const config: Config = {
   content: [
@@ -22,6 +22,7 @@ const config: Config = {
         'map': "url('../public/images/HomeImages/Map.png')",
         'service1Back': "url('../public/images/ServicesImages/Service1Back.png')",
         'paymentBack': "url('../public/images/PaymentImages/PaymentBack.png')",
+        'advertisingBack': "url('../public/images/AdvertisingImages/MobileAdvertsingBack.png')",
       },
       colors: {
         blue: '#283891',
